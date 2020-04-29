@@ -56,3 +56,7 @@ python dface/prepare_data/gen_landmark_48.py --dface_traindata_store data_ --ann
 
 #### Test
 `python test_image.py`
+
+#### Reference
+`python test_image.py`
+[DFace](https://github.com/kuaikuaikim/DFace)
